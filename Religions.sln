@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Religions", "Religions\Religions.csproj", "{53607852-7BC2-4E57-97A5-B820E1035795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53607852-7BC2-4E57-97A5-B820E1035795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53607852-7BC2-4E57-97A5-B820E1035795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53607852-7BC2-4E57-97A5-B820E1035795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53607852-7BC2-4E57-97A5-B820E1035795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD9903B-E3F9-4E88-B2B9-7F1AEE7663AB}
+	EndGlobalSection
+EndGlobal
